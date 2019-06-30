@@ -1,4 +1,4 @@
-# find a element in a binary tree.
+# Find a element in a binary tree interation.
 
 
 class Root:
