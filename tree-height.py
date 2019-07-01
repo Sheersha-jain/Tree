@@ -1,4 +1,4 @@
-# Algorithm to find height of tree.
+# Algorithm to find Height of tree.
 
 class Root:
     def __init__(self, value):
