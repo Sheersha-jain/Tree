@@ -11,3 +11,4 @@ if __name__ == "__main__":
     root_node.right = Root(3)
     root_node.left.right = Root(55)
     root_node.left.right.left = Root(900)
+
